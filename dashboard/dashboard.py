@@ -53,9 +53,6 @@ print(main_data)
 
 main_data.to_csv("main_data.csv", index=False)
 
-"""**Insight:**
-- xxx
-- xxx
 
 ### Assessing Data
 """
